@@ -1,3 +1,4 @@
 "Aquest és el contingut inicial del primer fitxer."
 Canvi fet des de la branca main.
 Canvi fet a text1.txt des de branca-edicio2.
+ex1B, afegeix linea al final del text1.txt i fes commit en branca-nova2
