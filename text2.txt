@@ -1,3 +1,4 @@
 "Aquest és el contingut inicial del segon fitxer."
 MODIFICACIO REMOTA VIA WEB TEXT2 BRANCA1
 EX3 Simular canvis remots --> Fes canvis a `text2.txt` directament des de la interfície web de GitHub a les branques `branca-nova1`
+EX3 Simular canvis remots "text2.txt" en branca-nova2, des de la interfice web de GitHub 
